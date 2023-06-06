@@ -1,0 +1,5 @@
+package com.apiRest.models;
+
+public class Persona {
+
+}

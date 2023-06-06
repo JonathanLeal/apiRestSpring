@@ -1,0 +1,39 @@
+package com.apiRest.service;
+
+import java.util.List;
+
+import com.apiRest.models.Persona;
+
+public class PersonaService implements BaseService<Persona>{
+
+	@Override
+	public List<Persona> listar() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Persona encontrarPorId(Long id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Persona guardar(Persona entity) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Persona editar(Long id, Persona entity) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public boolean eliminar(Long id) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

@@ -1,0 +1,9 @@
+package com.apiRest.repository;
+
+import org.springframework.data.repository.CrudRepository;
+
+import com.apiRest.models.Persona;
+
+public interface PersonaRepository extends CrudRepository<Persona, Long>{
+	
+}

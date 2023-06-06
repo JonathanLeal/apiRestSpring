@@ -1,0 +1,5 @@
+package com.apiRest.repository;
+
+public class PersonaRepository {
+
+}
